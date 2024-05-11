@@ -1,2 +1,2 @@
-# Compass-API-
-A working api developed by me bcs I couldn't find any good ones.
+# Compass-API
+This will be released soon when I am asked enough for the files or get around to setting up an automated system or website for it.
